@@ -19,6 +19,8 @@ After seeing them claiming that Task Bar was something that ruined some of their
 I provided a DLL pre-built to be used and to inject I would recommend [this](https://github.com/Arvanaghi/Windows-DLL-Injector), which is quite simple to use.
 But of course you can always built it yourself and/or inject it by yourself as well.
 
+**You may need the Visual Studio C++ 2019 Redistributable, so here they are [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).**
+
 
 ## References
 - [Good place to understand how you dig into the memory of the game](https://github.com/shlifedev/AmongUsMemory)
